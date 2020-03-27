@@ -10,7 +10,11 @@ We want to build a model that can accurately predict if the transmission is beni
 I have used multiple machine learning algorithms to pick the best possible model that gives the most accurate result.
 
 Algorithms Used:
+
 Logistic Regression
+
 KNN Classifier
+
 Random Forest Classifier
+
 Multi-layer Perceptron(MLP) Classifier
